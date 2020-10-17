@@ -1,0 +1,14 @@
+{
+  "type": "object",
+  "properties": {
+    "name": { "type": "string"},
+    "id": { "type": "number"},
+    "comment": { "type": "string"}
+  }
+}
+
+{
+    "name": "encounter1",
+    "id": "123456",
+    "comment": "A simple record"
+}
